@@ -6,7 +6,6 @@ test: # test images (optional)
 
 # Classes (19 Dofus classes)
 names:
-  
 	0: Cra
 	1: Ecaflip
 	2: Eliotrope
