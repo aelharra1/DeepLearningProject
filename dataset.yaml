@@ -6,22 +6,22 @@ test: # test images (optional)
 
 # Classes (19 Dofus classes)
 names:
-	0: Cra
-	1: Ecaflip
-	2: Eliotrope
-	3: Eniripsa
-	4: Enutrof
-	5: Huppermage
-	6: Iop
-	7: Feca
-	8: Forgelance
-	9: Ouginak
-	10: Osamodas
-	11: Pandawa
-	12: Sacrieur
-	13: Sadida
-	14: Sram
-	15: Steamer
-	16: Roublard
-	17: Xelor
-	18: Zobal
+   0: Cra
+   1: Ecaflip
+   2: Eliotrope
+   3: Eniripsa
+   4: Enutrof
+   5: Huppermage
+   6: Iop
+   7: Feca
+   8: Forgelance
+   9: Ouginak
+   10: Osamodas
+   11: Pandawa
+   12: Sacrieur
+   13: Sadida
+   14: Sram
+   15: Steamer
+   16: Roublard
+   17: Xelor
+   18: Zobal
