@@ -2,7 +2,7 @@
 path: . # dataset root dir (absolute or relative; if relative, it's relative to default datasets_dir)
 train: /content/DeepLearningProject/datasets/images/train # train images (relative to 'path') 4 images
 val: /content/DeepLearningProject/datasets/images/val # val images (relative to 'path') 4 images
-test: # test images (optional)
+test: /content/DeepLearningProject/datasets/images/test # test images (optional)
 
 # Classes (19 Dofus classes)
 names:
