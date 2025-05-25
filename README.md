@@ -13,7 +13,7 @@ Dofus est un MMORPG développé par Ankama, se déroulant dans un univers médi�
 
 - **Taille totale :** 603 images
 - **Répartition :** 80% entraînement (483 images) / 10% validation (61 images) / 10% test (59 images)
-- **Classes :** 19 classes de personnages Dofus
+- **Classes :** 19 classes de personnages
 - **Source :** Captures d'écran réalisées en mode "créature" pour réduire les ambiguïtés visuelles
 
 ### Prétraitement des images
